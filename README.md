@@ -34,3 +34,12 @@ execute o comando abaixo na pasta raiz do projeto para realizar a execução dos
 ```python
 python -m Pyautomators
 ```
+
+
+> ### execução dos jobs no jenkins
+
+os jobs no jenkins foram executados na minha máquina, onde configurei no Trigger de buils, conforme abaixo, para ele ser executado, todos os dias da semana, as 9h e às 15h.
+
+```
+0 9, 15 *** 1-7
+```
