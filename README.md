@@ -40,6 +40,8 @@ python -m Pyautomators
 
 os jobs no jenkins foram executados na minha máquina, onde configurei no Trigger de buils, conforme abaixo, para ele ser executado, todos os dias da semana, as 9h e às 15h.
 
+Para geração de documentação encontrei um plugin, o Cucumber Living Documentation, não implementei no meu Jenkins, pelo tempo curto, mas caso queiram posso implementar no projeto.
+
 ```
 0 9, 15 *** 1-7
 ```
